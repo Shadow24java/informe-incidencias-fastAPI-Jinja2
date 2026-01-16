@@ -28,7 +28,7 @@ En esta primera imagen podemos ver donde se aplican los filtros.
 <img width="1880" height="753" alt="Captura de pantalla 2026-01-15 164906" src="https://github.com/user-attachments/assets/167f71f0-4efe-4464-aa5c-8b92b5cb43ef" />
 En esta otra vemos el primer gráfico que indica las incidencias filtradas por categoría.
 
-<img width="1878" height="798" alt="Captura de pantalla 2026-01-15 164916" src="https://github.com/user-attachments/assets/9cf9616f-25ea-4413-8836-584b5bcfd15b" />
+<img width="909" height="408" alt="image" src="https://github.com/user-attachments/assets/97f67b5f-3b29-45c2-a11a-997d61ac2dc5" />
 Y en esta última se puede ver el segundo gráfico con las incidencias de gravedad.
 
 
